@@ -4,6 +4,6 @@ public class Main {
         System.out.println("안준영");
         World.run();
         World.run2();
-        World.run3();
+        World.run6();
     }
 }
